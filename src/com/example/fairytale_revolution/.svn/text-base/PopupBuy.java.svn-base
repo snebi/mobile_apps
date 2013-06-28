@@ -1,0 +1,49 @@
+package com.example.fairytale_revolution;
+//package com.example.fairytale_revolution;
+//
+//import android.app.Activity;
+//import android.content.DialogInterface.OnClickListener;
+//import android.os.Bundle;
+//import android.view.Menu;
+//import android.view.View;
+//import android.view.Window;
+//import android.widget.Button;
+//import android.widget.TextView;
+//
+//public class Popup_buy extends Activity {
+//
+//	@Override
+//	protected void onCreate(Bundle savedInstanceState) {
+//		
+//	    requestWindowFeature(Window.FEATURE_NO_TITLE);
+//	    setContentView(R.layout.widgetdialog_activity);
+//
+//	    String dialogText = "This is the dialog text";
+//	    TextView txt = (TextView) findViewById(R.id.popup_buy_txt);
+//	    txt.setText(dialogText);
+//
+//	    Button dismissbutton = (Button) findViewById(R.id.pop_buy_button);
+//	    dismissbutton.setOnClickListener(new OnClickListener() {
+//	      @Override
+//	      public void onClick(View v) {
+//	        WidgetDialogActivity.this.finish();
+//	      }
+//	    });
+//		
+//		
+//		
+//		
+//		super.onCreate(savedInstanceState);
+//		setContentView(R.layout.activity_popup_buy);
+//	}
+//
+//	@Override
+//	public boolean onCreateOptionsMenu(Menu menu) {
+//		// Inflate the menu; this adds items to the action bar if it is present.
+//		getMenuInflater().inflate(R.menu.popup_buy, menu);
+//		return true;
+//	}
+//
+//}
+//
+//

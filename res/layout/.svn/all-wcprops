@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FurryTail/!svn/ver/11/trunk/fairytale_revolution/res/layout
+END
+activity_story_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FurryTail/!svn/ver/18/trunk/fairytale_revolution/res/layout/activity_story_text.xml
+END
+activity_choose_fairy_tale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FurryTail/!svn/ver/18/trunk/fairytale_revolution/res/layout/activity_choose_fairy_tale.xml
+END
+activity_game_face_drag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FurryTail/!svn/ver/11/trunk/fairytale_revolution/res/layout/activity_game_face_drag.xml
+END
+activity_screen_slide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FurryTail/!svn/ver/2/trunk/fairytale_revolution/res/layout/activity_screen_slide.xml
+END
+activity_game_memory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FurryTail/!svn/ver/27/trunk/fairytale_revolution/res/layout/activity_game_memory.xml
+END
+popup_window_basket.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FurryTail/!svn/ver/18/trunk/fairytale_revolution/res/layout/popup_window_basket.xml
+END
+popup_window.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FurryTail/!svn/ver/18/trunk/fairytale_revolution/res/layout/popup_window.xml
+END
+activity_popup_buy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FurryTail/!svn/ver/10/trunk/fairytale_revolution/res/layout/activity_popup_buy.xml
+END
+activity_game_basket_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FurryTail/!svn/ver/27/trunk/fairytale_revolution/res/layout/activity_game_basket_new.xml
+END
+popup_buygame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FurryTail/!svn/ver/10/trunk/fairytale_revolution/res/layout/popup_buygame.xml
+END

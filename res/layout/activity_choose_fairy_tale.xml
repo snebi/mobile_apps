@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/choose_fairytail_background"
+    tools:context=".ChooseFairyTale" >
+
+    <!-- Text generated from the .java file -->
+
+    <Button
+        android:id="@+id/sleeping_beauty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/snow_white"
+        android:layout_alignRight="@+id/snow_white"
+        android:layout_below="@+id/red_hood"
+        android:onClick="startSleepingBeauty"
+        android:text="@string/sleeping_beauty" />
+
+    <Button
+        android:id="@+id/snow_white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sleeping_beauty"
+        android:layout_centerHorizontal="true"
+        android:onClick="startSnowWhite"
+        android:text="@string/snow_white" />
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/snow_white"
+        android:layout_alignRight="@+id/sleeping_beauty"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/welcome_msg" />
+
+    <Button
+        android:id="@+id/rapunzel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/snow_white"
+        android:layout_alignRight="@+id/snow_white"
+        android:layout_below="@+id/snow_white"
+        android:onClick="startRapunzel"
+        android:text="@string/rapunzel" />
+
+    <Button
+        android:id="@+id/hansel_gretel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/rapunzel"
+        android:layout_alignRight="@+id/rapunzel"
+        android:layout_below="@+id/rapunzel"
+        android:onClick="startHanselGretel"
+        android:text="@string/hansel_gretel" />
+
+    <Button
+        android:id="@+id/red_hood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sleeping_beauty"
+        android:layout_alignRight="@+id/sleeping_beauty"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="120dp"
+        android:onClick="startRedHood"
+        android:text="@string/red_hood" />
+
+</RelativeLayout>

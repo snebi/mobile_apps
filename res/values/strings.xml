@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Märchen 2.0</string>
+    <string name="back"> Zurück </string>
+    <string name="purchase"> Kaufen !!! </string>
+    <string name="purchase_txt">Nur in der kommerziellen Version verfügbar</string>
+    <string name="not_available_version">Nur in der kommerziellen Version verfügbar</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_main">Hauptbildschirm</string>
+    <string name="title_activity_choose_fairy_tale">Wähle ein Märchen aus</string>
+    <string name="red_hood">Rotkäppchen</string>
+    <string name="sleeping_beauty">Dornröschen</string>
+    <string name="snow_white">Schneewittchen und die 7 Zwerge</string>
+    <string name="rapunzel">Rapunzel</string>
+    <string name="hansel_gretel"> Hänsel und Gretel </string>
+    <string name="title_activity_story_text_red_hood">Rotkäppchen</string>
+    <string name="title_activity_screen_slide_red_hood">Rotkäppchen</string>
+    <string name="play_game">SPIELEN</string>
+    <string name="fin">Ende</string>
+    <string name="welcome_msg">Hallo! Suche dir doch gleich ein Märchen aus!</string>
+
+       
+    <string name="title_activity_popup_buy">Kaufen</string>
+    <string name="title_activity_normal">Normal</string>
+    <string name="title_activity_normal1">Normal1</string>
+    <string name="story_image_desc">Story Image</string>
+
+
+    <!-- 
+    ================================
+    STORY STRINGS 
+    ================================
+    -->
+    <string name="red_hood_string1">Es war einmal ein kleines Mädchen. Das war so lieb und nett, dass jedermann sie gern hatte. 
+	    Am meisten aber wurde das Rotkäppchen von seiner Großmutter geliebt. Von ihr hatte sie ihr 
+	    Käppchen aus rotem Stoff, das sie immer trug und weswegen alle Menschen sie Rotkäppchen nannten.</string>
+    <string name="red_hood_string2">Eines Tages sagte die Mutter zu Rotkäppchen: \"Großmutter ist krank. Bring ihr diesen Korb voll Obst und Gemüse.\"</string>
+    <string name="red_hood_string3">Nachdem Rotkäppchen den Korb gefüllt hatte, war sie bereit loszuziehen. Die Mutter trug 
+	    Rotkäppchen auf, nicht vom Wege abzukommen, die Großmutter artig zu grüßen und nicht erst in 
+	    allen Ecken des Hauses herumzustöbern.</string>
+    <string name="red_hood_string4">Um zu Großmutters Haus zu gelangen, musste Rotkäppchen durch den großen Wald laufen.</string>
+    <string name="red_hood_string5">Nachdem sie sich für den richtigen Weg entscheiden hatte, begegnete ihr der Wolf. 
+	    Sie hatte allerdings keine Furcht, denn sie kannte den Wolf nicht und wusste nicht, was 
+	    für ein böses Geschöpf er war. So erzählte sie ihm brav, dass der Korb mit Gaben 
+	    für die kranke Großmutter prall gefüllt war, als er sie danach fragte.</string>
+    <string name="red_hood_string6">Rotkäppchen dachte sich auch nichts Böses, als sie ihm verriet, wo das Haus der Großmutter zu finden sei. 
+	    Der Wolf aber dachte sich: \"Das kleine Mädchen wird lecker sein. Und wenn ich es richtig mache, dann kann ich beide fressen!\" </string>
+    <string name="red_hood_string7">Er lief ein Stück mit Rotkäppchen mit und sprach zu ihr: \"Siehst du nicht die schönen Blumen? 
+	    \nWarum schaust du sie dir nicht an? Und hörst du nicht die Vögel singen? Gefällt dir der Wald etwa nicht?\" </string>
+    <string name="red_hood_string8">Rotkäppchen schaute sich nun um und tatsächlich gab es im Wald sehr schöne Blumen. Und obwohl sie ihrer 
+	    Mutter versprochen hatte, den Weg nicht zu verlassen, lief Rotkäppchen nun immer tiefer in den Wald, 
+	    um einen Blumenstrauß für die Großmutter zu pflücken.</string>
+    <string name="red_hood_string9">Der Wolf aber lief schnell zu Großmutters Haus und klopfte an die Tür. \"Wer ist denn da?\", 
+	    fragte die Großmutter. \"Ich bin es, das Rotkäppchen. Ich bringe Obst und Gemüse, mach die Tür auf\", log der Wolf.</string>
+    <string name="red_hood_string10">\"Die Tür ist nicht verschlossen\", antwortete die Großmutter und in dem Moment sprang der Wolf auch 
+	    schon ins Haus und verschlang die Großmutter. Dann zog er ihre Kleider an, setzte sich ihre Haube auf 
+	    und legte sich in ihr Bett.</string>
+    <string name="red_hood_string11">Als Rotkäppchen kam und sah, dass die Tür offen stand rief sie: \"Guten Tag, liebe Großmutter!\"</string>
+    <string name="red_hood_string12">Aber sie bekam keine Antwort. Und als sie vor das Bett trat und sah, dass die Großmutter so anders 
+	    aussah, fragte es: \"Großmutter, warum hast du so große Ohren?\"</string>
+    <string name="red_hood_string13">\"Damit ich dich besser hören kann.\" - \"Und warum hast du so große Augen?\" </string>
+    <string name="red_hood_string14">\"Damit ich dich besser sehen kann.\" - \"Und was hast du für eine große Nase!\"</string>
+    <string name="red_hood_string15">\"Damit ich dich besser riechen kann!\" - \"Aber, Großmutter, was hast du für einen großen, fürchterlichen Mund?\"</string>
+    <string name="red_hood_string16">\"Damit ich dich besser fressen kann!\", brüllte der Wolf, sprang auf und verschlang auch das 
+	    Rotkäppchen.</string>
+    <string name="red_hood_string17">So satt wie er war legte er sich wieder ins Bett, schlief ein und schnarchte.</string>
+    <string name="red_hood_string18">Als zufällig der Jäger vorbeikam, wunderte er sich, wie laut die Großmutter schnarchte und 
+	    kam ins Haus, um zu sehen ob es ihr an etwas fehle.</string>
+    <string name="red_hood_string19">So fand er den Wolf im Bett, den er schon lange gesucht hatte. Der Jäger wusste sofort, dass der Wolf 
+	    die Großmutter gefressen hatte. Deswegen erschoss er ihn nicht, sondern holte eine Schere und 
+	    schnitt dem Wolf den Bauch auf, um sie zu retten.</string>
+    <string name="red_hood_string20">Der Jäger staunte nicht schlecht, wie er dann sah, dass auch das Rotkäppchen aus dem Bauch 
+	    des Wolfes sprang!</string>
+    <string name="red_hood_string21">Schnell holten sie ein paar große Steine, die sie dem Wolf in den Bauch steckten und nähten ihn 
+	    wieder zu. Als der Wolf aber wieder aufwachte, dachte er: \"Wie schwer mir der Magen ist von dem guten Mahl!\"</string>
+    <string name="red_hood_string22">Da er großen Durst hatte ging er zum Bach, um zu trinken. Er beugte sich ein Stück vor, und noch 
+	    ein Stück - und weil er so schwere Stein im Bauch hatte, fiel er ins Wasser und ertrank.</string>
+    <string name="red_hood_string23">Rotkäppchen aber schwor sich: \"Nie wieder will ich den Weg verlassen, wenn ich der Mutter versprochen habe, es nicht zu tun.\"</string>
+
+
+    
+    <!--
+    ===============================
+    GAME STRINGS 
+    ===============================
+    -->
+	
+	<string name="confirm">Weiter</string>
+	<string name="game_success">Herzlichen Glückwunsch!</string>
+
+    <!-- Basket Game -->
+    <string name="title_activity_game_basket">Der Obstkorb</string>
+    <string name="basket_strawberry">Lege für Großmutter die Edbeere in den Korb ...</string>
+    <string name="basket_apple">Als nächstes den knackigen Apfel ...</string>
+    <string name="basket_onion">Nun die saftige Zwiebel ...</string>
+    <string name="basket_orange">Dann die köstliche Orange ...</string>
+    <string name="basket_banana">Wie wär es mit einer gesunden Banane ...</string>
+    <string name="basket_tomato">Jetzt fehlt noch die Tomate ... </string>
+    <string name="basket_pepper">Dann noch die Paprika ...</string>
+    <string name="basket_carot">Und als letztes die Karotte, dann hast du es geschafft!</string>
+    <string name="basket_end"> GUT GEMACHT!!! Großmutter wird im Nu wieder gesund sein!</string>
+    <string name="apple">Apfel</string>
+    <string name="strawberry">Erdbeere</string>
+    <string name="onion">Zwiebel</string>
+    <string name="orange">Orange</string>
+    <string name="banana">Banane</string>
+    <string name="tomato">Tomate</string>
+    <string name="pepper">Paprika</string>
+    <string name="carot">Karotte</string>
+    <string name="game_finished">Glückwunsch, das hast du sehr gut gemacht!</string>
+    <string name="continue_reading">Märchen fortsetzen</string>
+   	<string name="fruit_image_desc">Obst/Gemüse</string>
+    <string name="basket_image_desc">Korb</string>
+
+    <!-- Drag Face Game -->
+    <string name="flower">Blume</string>
+    <string name="stone">Stein</string>
+    <string name="ears">Ohren</string>
+    <string name="nose">Nase</string>
+    <string name="mouth">Mund</string>
+    <string name="eyes">Augen</string>
+    <string name="title_activity_game_face_drag">Großmutters Gesicht</string>
+    <string name="game_face_drag_txt">Ordne die Körperteile Großmutter zu:</string>
+    
+    <!-- Memory Game -->
+    <string name="title_activity_game_memory">Wald-Memory</string>
+    <string name="welcome_memory">Willkommen beim Wald-Memory du Schlampe!</string>
+    <string name="memory_end">Herzlichen Glückwunsch, du hast es geschafft!</string>
+
+</resources>
